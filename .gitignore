@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.mp4
+outputs/visual_dataset.npz
+outputs/bc_policy.pt
